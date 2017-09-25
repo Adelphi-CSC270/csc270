@@ -2,7 +2,7 @@
  * life.h
  *
  *  Created on: Sep 13, 2016
- *      Author: leune
+ *      Author: Steven Kotevski
  */
 
 #ifndef LIFE_H_
